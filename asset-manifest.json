@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.js": "/empoyee-directory-app/static/js/main.24bd67b7.chunk.js",
-    "main.js.map": "/empoyee-directory-app/static/js/main.24bd67b7.chunk.js.map",
+    "main.js": "/empoyee-directory-app/static/js/main.118b1350.chunk.js",
+    "main.js.map": "/empoyee-directory-app/static/js/main.118b1350.chunk.js.map",
     "runtime-main.js": "/empoyee-directory-app/static/js/runtime-main.dc999d84.js",
     "runtime-main.js.map": "/empoyee-directory-app/static/js/runtime-main.dc999d84.js.map",
-    "static/js/2.715b96cc.chunk.js": "/empoyee-directory-app/static/js/2.715b96cc.chunk.js",
-    "static/js/2.715b96cc.chunk.js.map": "/empoyee-directory-app/static/js/2.715b96cc.chunk.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/empoyee-directory-app/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.56eca1d5.chunk.js": "/empoyee-directory-app/static/js/2.56eca1d5.chunk.js",
+    "static/js/2.56eca1d5.chunk.js.map": "/empoyee-directory-app/static/js/2.56eca1d5.chunk.js.map",
     "index.html": "/empoyee-directory-app/index.html",
-    "static/js/2.715b96cc.chunk.js.LICENSE.txt": "/empoyee-directory-app/static/js/2.715b96cc.chunk.js.LICENSE.txt"
+    "static/css/2.4c97ca4f.chunk.css.map": "/empoyee-directory-app/static/css/2.4c97ca4f.chunk.css.map",
+    "static/js/2.56eca1d5.chunk.js.LICENSE.txt": "/empoyee-directory-app/static/js/2.56eca1d5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.dc999d84.js",
-    "static/js/2.715b96cc.chunk.js",
-    "static/js/main.24bd67b7.chunk.js"
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.56eca1d5.chunk.js",
+    "static/js/main.118b1350.chunk.js"
   ]
 }
